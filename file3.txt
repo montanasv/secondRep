@@ -1,0 +1,2 @@
+fail3 tekstas
+nuaja eilute prideta is ext git
